@@ -1,0 +1,23 @@
+textarea {
+  background-color: #ccc;
+  background: url(http://i.imgur.com/2cOaJ.png) !important;
+  background-attachment: local !important;
+  background-repeat: no-repeat !important;
+  padding-left: 35px !important;
+  padding-top: 10px !important;
+  border-color: #ccc !important;
+}
+.tc-cell {
+  border-left: 1px solid #e8e8eb;
+}
+.ce-code {
+  background: #eeeeee;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+  width: fit-content;
+}
+
+.ce-code__textarea {
+  border: none !important;
+}

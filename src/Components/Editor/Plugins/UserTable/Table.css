@@ -1,0 +1,23 @@
+table,
+th,
+td {
+  border: 1px solid #d2d2d2;
+  border-collapse: collapse;
+}
+th {
+  min-width: 80px;
+  padding: 12px;
+  font-weight: 800;
+  color: #41474a;
+  text-align: left;
+}
+td {
+  min-heigth: 35px;
+  padding: 20px;
+}
+.table-head {
+  background: #e0e0e0 !important;
+}
+.table-row {
+  heigth: 35px !important;
+}
