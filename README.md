@@ -39,4 +39,15 @@ To get started with the Rich Text Editor, follow these steps:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/rich-text-editor.git
+   git clone https://github.com/your-username/rich-text-editor.git](https://github.com/dineshp72/assignment-rte/tree/production)https://github.com/dineshp72/assignment-rte/tree/production
+   
+2. Installation.
+   ```bash
+   npm i
+   
+3. Start the application.
+   ```bash
+   npm start
+3. Build the application.
+   ```bash
+   npm run build
