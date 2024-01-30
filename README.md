@@ -47,7 +47,7 @@ To get started with the Rich Text Editor, follow these steps:
    
 3. Start the application.
    ```bash
-   npm start
+   npm run serve
 3. Build the application.
    ```bash
    npm run build
